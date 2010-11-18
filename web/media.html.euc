@@ -1,0 +1,186 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=euc-jp">
+<TITLE>AOKI CONCEPT DESIGNING  -Web Business-</TITLE>
+<SCRIPT language=JavaScript src="../script.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if( navigator.userAgent.indexOf("Win",0) >= 0){
+document.write('<LINK REL="STYLESHEET" TYPE="text/css" HREF="../css/win.css">');
+}else{
+document.write('<LINK REL=\"STYLESHEET\" TYPE=\"text/css\" HREF=\"../css/mac.css\">');
+}
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+window.open(theURL,winName,features);
+}
+//-->
+</SCRIPT>
+<NOSCRIPT><LINK REL="STYLESHEET" TYPE="text/css" HREF="../css/win.css"></NOSCRIPT>
+</HEAD>
+
+<BODY>
+<DIV ALIGN="center">
+<TABLE WIDTH="806" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD WIDTH="3" BACKGROUND="../cmn/shdw01.gif"><IMG SRC="../cmn/spcr.gif" WIDTH="3" HEIGHT="1"></TD>
+<TD WIDTH="800"><A HREF="../index.html"><IMG SRC="../cmn/hdr_01.gif" WIDTH="800" HEIGHT="41" BORDER="0" ALT="青木コンセプト事務所"></A><BR>
+<IMG SRC="../cmn/hdr_02.gif" WIDTH="30" HEIGHT="22"><A HREF="../overview/index.html" onMouseOver="_in('ovrvw',1);_in('otln',49);_in('mda',49);_in('rsrch',49);" onMouseOut="_out('ovrvw',0);_out('otln',44);_out('mda',36);_out('rsrch',41);"><IMG SRC="../cmn/ovrvw.gif" WIDTH="185" HEIGHT="22" BORDER="0" NAME="ovrvw" ALT="ご挨拶・会社概要"></A><A HREF="../consulting/index.html" onMouseOver="_in('cnsltng',4);_in('otln',49);_in('mda',49);_in('rsrch',49);" onMouseOut="_out('cnsltng',3);_out('otln',44);_out('mda',36);_out('rsrch',41);"><IMG SRC="../cmn/cnsltng.gif" WIDTH="185" HEIGHT="22" BORDER="0" NAME="cnsltng" ALT="ビジネスコンサルティング"></A><A HREF="../b_design/index.html" onMouseOver="_in('dsgnng',7);_in('otln',49);_in('mda',49);_in('rsrch',49);" onMouseOut="_out('dsgnng',6);_out('otln',44);_out('mda',36);_out('rsrch',41);"><IMG SRC="../cmn/dsgnng.gif" WIDTH="185" HEIGHT="22" BORDER="0" NAME="dsgnng" ALT="ビジネスデザイニング"></A><A HREF="index.html" onMouseOver="_in('wbusnss',48);" onMouseOut="_out('wbusnss',11);"><IMG SRC="../cmn/wbusnss_w.gif" WIDTH="185" HEIGHT="22" BORDER="0" NAME="wbusnss" ALT="ウェブビジネス"></A><IMG SRC="../cmn/hdr_03.gif" WIDTH="30" HEIGHT="22"><BR>
+<IMG SRC="../cmn/hdr_07.gif" WIDTH="30" HEIGHT="19"><IMG SRC="../cmn/hdr_06.gif" WIDTH="185" HEIGHT="19" BORDER="0"><A HREF="index.html" onMouseOver="_in('otln',13);" onMouseOut="_out('otln',44);"><IMG SRC="../cmn/otlnw_w.gif" WIDTH="185" HEIGHT="19" NAME="otln" BORDER="0" ALT="概要"></A><IMG SRC="../cmn/mda.gif" WIDTH="185" HEIGHT="19" NAME="mda" BORDER="0" ALT="メディア/コンテンツ"><A HREF="research.html" onMouseOver="_in('rsrch',40);" onMouseOut="_out('rsrch',41);"><IMG SRC="../cmn/rsrch_w.gif" WIDTH="185" HEIGHT="19" NAME="rsrch" BORDER="0" ALT="マーケティングリサーチ"></A><IMG SRC="../cmn/hdr_07.gif" WIDTH="30" HEIGHT="19"><BR>
+<IMG SRC="../cmn/hdr_05.gif" WIDTH="170" HEIGHT="63"><IMG SRC="img/web_ttl.gif" WIDTH="630" HEIGHT="63"></TD>
+<TD WIDTH="3" BACKGROUND="../cmn/shdw02.gif"><IMG SRC="../cmn/spcr.gif" WIDTH="3" HEIGHT="1"></TD>
+</TR>
+</TABLE><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="2"><BR>
+<TABLE WIDTH="806" HEIGHT="400" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD ROWSPAN="2" WIDTH="3" BACKGROUND="../cmn/shdw01.gif"><IMG SRC="../cmn/spcr.gif" WIDTH="3" HEIGHT="1"></TD>
+<TD WIDTH="170" HEIGHT="100%" VALIGN="top" BACKGROUND="../cmn/left_bg.gif"><IMG SRC="img/sub_ctgry_mda.gif" WIDTH="170" HEIGHT="104"></TD>
+<TD ROWSPAN="2" WIDTH="600" BGCOLOR="#FFFFFF" ALIGN="center" VALIGN="top"><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="45"><BR>
+	<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	<TR><TD WIDTH="500" HEIGHT="70"><IMG SRC="img/ld_01.gif" WIDTH="500" HEIGHT="56" ALT="独自ウェブメディアの発行と、様々なジャンルのコンテンツ企画・制作・運営"></TD></TR>
+	</TABLE>
+	<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	<TR><TD WIDTH="500" HEIGHT="20" BGCOLOR="#666666" NOWRAP><FONT CLASS="bdyw">&nbsp;独自ウエブメディア事業</FONT></TD></TR>
+	<TR><TD WIDTH="500" ALIGN="center"><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="20"><BR>
+		<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<TR>
+		<TD WIDTH="230" VALIGN="top" NOWRAP><A HREF="http://www.nature-n.com/" TARGET="_blank"><IMG SRC="img/nn.gif" WIDTH="220" HEIGHT="200" BORDER="0" ALT="Nature Net"></A></TD>
+		<TD WIDTH="270" VALIGN="top">
+			<TABLE WIDTH="270" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+			<TR>
+			<TD><FONT CLASS="bdyb">Nature Net</FONT></TD>
+			<TD><FONT CLASS="cap"><A HREF="http://www.nature-n.com/" TARGET="_blank">http://www.nature-n.com/</A></FONT></TD>
+			</TR>
+			<TR>
+			<TD COLSPAN="2"><FONT CLASS="bdy"><IMG SRC="img/line.gif" WIDTH="270" HEIGHT="5"><BR>1997年創刊<BR>自然・環境をテーマにした、読者参加型総合ウエブジン。“人と自然との関わり”、“環境問題と人との関わり”を多角的にとらえ、その情報をあらゆる地域、国に求め、読者とともに探っていく、全く新しい価値観をもったメディアです。<BR><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="5"><BR>動植物の生態、自然写真、デジタルカメラ講座、水とからだ、自転車、電気自動車からゴミ問題まで、広範で読み応えのあるオリジナルコンテンツを満載。<BR><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="5"><BR>媒体特性<BR>　・月間アクセス数：約700万ページビュー<BR>　・ユニークユーザー数：約60万人<BR>　・更新頻度：随時</FONT></TD>
+			</TR>
+			</TABLE>
+		</TD>
+		</TR>
+		</TABLE>
+		<TABLE><TR><TD HEIGHT="30" NOWRAP></TD></TR></TABLE>
+		<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<TR>
+		<TD WIDTH="230" NOWRAP><A HREF="http://www.naturelinks.com" TARGET="_blank"><IMG SRC="img/nl.gif" WIDTH="220" HEIGHT="200" BORDER="0" ALT="naturelinks"></A></TD>
+		<TD WIDTH="270" VALIGN="top">
+			<TABLE WIDTH="270" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+			<TR>
+			<TD><FONT CLASS="bdyb">naturelinks</FONT></TD>
+			<TD><FONT CLASS="cap"><A HREF="http://www.naturelinks.com" TARGET="_blank">http://www.naturelinks.com</A></FONT></TD>
+			</TR>
+			<TR>
+			<TD COLSPAN="2"><FONT CLASS="bdy"><IMG SRC="img/line.gif" WIDTH="270" HEIGHT="5"><BR>1997年創刊<BR>Nature Netとともに創刊した自然・環境・アウトドアに関するリンク集。<BR>専門編集者が厳選した登録サイトはのべ2,000以上。<BR>ここにくれば、自然・環境・アウトドアに関する優良サイトに出会うことができます。<BR>更新頻度：月に1回</FONT></TD>
+			</TR>
+			</TABLE>
+		</TD>
+		</TR>
+		</TABLE>
+		<TABLE><TR><TD HEIGHT="30" NOWRAP></TD></TR></TABLE>
+		<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<TR>
+		<TD WIDTH="230" NOWRAP><A HREF="http://www.sports-n.com" TARGET="_blank"><IMG SRC="img/sn.gif" WIDTH="220" HEIGHT="200" BORDER="0" ALT="Sports Net"></A></TD>
+		<TD WIDTH="270" VALIGN="top">
+			<TABLE WIDTH="270" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+			<TR>
+			<TD><FONT CLASS="bdyb">Sports Net</FONT></TD>
+			<TD><FONT CLASS="cap"><A HREF="http://www.sports-n.com" TARGET="_blank">http://www.sports-n.com</A></FONT></TD>
+			</TR>
+			<TR>
+			<TD COLSPAN="2"><FONT CLASS="bdy"><IMG SRC="img/line.gif" WIDTH="270" HEIGHT="5"><BR>1998年創刊<BR>からだをテーマにした、総合ウエブジン。<BR>目的別トレーニング手法、スポーツ栄養、ケガの予防やケガへの対処法など、実際にスポーツをしている人だけでなく、健康維持のためにからだを動かそうと思っている人、そして、観戦専門の人までが、楽しめるメディアです。<BR>更新頻度：月に1回</FONT></TD>
+			</TR>
+			</TABLE>
+		</TD>
+		</TR>
+		</TABLE>
+		<TABLE><TR><TD HEIGHT="10" NOWRAP></TD></TR></TABLE>
+		<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<TR>
+		<TD WIDTH="230" VALIGN="top"><BR></TD>
+		<TD WIDTH="270" VALIGN="top">
+			<TABLE WIDTH="270" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+			<TR>
+			<TD VALIGN="top"><A HREF="javascript:MM_openBrWindow('../contact.html','cntct','width=490,height=440,scrollbars=0')"><IMG SRC="../cmn/btn.gif" BORDER="0" WIDTH="17" HEIGHT="16"></A></TD>
+			<TD><FONT CLASS="bdy"><A HREF="javascript:MM_openBrWindow('../contact.html','cntct','width=490,height=440,scrollbars=0')">Nature Net、naturelinks、Sports Netへの広告掲載などに関するお問い合わせはこちらから。</A></FONT></TD>
+			</TR>
+			</TABLE>
+		</TD>
+		</TR>
+		</TABLE>
+		<TABLE><TR><TD HEIGHT="30" NOWRAP></TD></TR></TABLE>
+	</TD></TR>
+	</TABLE>
+	<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	<TR><TD WIDTH="500" HEIGHT="20" BGCOLOR="#666666" NOWRAP><FONT CLASS="bdyw">&nbsp;オンラインショッピング事業</FONT></TD></TR>
+	<TR><TD WIDTH="500"><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="20"><BR>
+		<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<TR>
+		<TD WIDTH="230" NOWRAP><A HREF="http://www.nature-n.com/zp/marketplace/index_html" TARGET="_blank"><IMG SRC="img/mp.gif" WIDTH="220" HEIGHT="200" BORDER="0" ALT="Nature Net Market Place"></A></TD>
+		<TD WIDTH="270" VALIGN="top">
+			<TABLE WIDTH="270" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+			<TR>
+			<TD><FONT CLASS="bdyb">Nature Net Market Place<BR></FONT><FONT CLASS="cap"><A HREF="http://www.nature-n.com/zp/marketplace/index_html" TARGET="_blank">http://www.nature-n.com/zp/marketplace/index_html</A></FONT></TD>
+			</TR>
+			<TR>
+			<TD ><FONT CLASS="bdy"><IMG SRC="img/line.gif" WIDTH="270" HEIGHT="5"><BR>私たちの生活にモノが必要である以上、 “より良い”、 “かしこい”選択は、心がけたいもの。読者のみなさまとともに選んできたアイテムを中心に、Nature Netの“おすすめアイテム”だけをお届けしています。<BR><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="5"><BR>環境にやさしいだけではありません。デザインもスタイルもよくて、永く使えるモノ、そんなエコデザインなアイテムを揃えています。</FONT></TD>
+			</TR>
+			</TABLE>
+		</TD>
+		</TR>
+		</TABLE>
+		<TABLE><TR><TD HEIGHT="40" NOWRAP></TD></TR></TABLE>
+	</TD></TR>
+	</TABLE>
+	<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	<TR><TD WIDTH="500" HEIGHT="20" BGCOLOR="#666666" NOWRAP><FONT CLASS="bdyw">&nbsp;企業HP企画・戦略・制作事業</FONT></TD></TR>
+	<TR><TD WIDTH="500" ALIGN="center"><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="20"><BR>
+		<TABLE WIDTH="500" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<TR>
+		<TD WIDTH="250" ROWSPAN="2" VALIGN="top" NOWRAP><A HREF="http://www.honda.co.jp/environment/index.html" TARGET="_blank"><IMG SRC="img/hd.gif" WIDTH="220" HEIGHT="200" BORDER="0" ALT="other"></A></TD>
+		<TD WIDTH="250" VALIGN="top">
+		<FONT CLASS="bdy"><IMG SRC="img/dot.gif" WIDTH="10" HEIGHT="12"> Honda 廃棄段階のリサイクル<BR></FONT>
+		<FONT CLASS="cap"><A HREF="http://www.honda.co.jp/environment/index.html" TARGET="_blank">http://www.honda.co.jp/environment/index.html</A></FONT>
+		</TD>
+		</TR>
+		<TR>
+		<TD WIDTH="250" VALIGN="bottom">
+			<TABLE WIDTH="250" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+			<TR>
+			<TD VALIGN="top"><A HREF="javascript:MM_openBrWindow('../contact.html','cntct','width=490,height=440,scrollbars=0')"><IMG SRC="../cmn/btn.gif" BORDER="0" WIDTH="17" HEIGHT="16"></A></TD>
+			<TD><FONT CLASS="bdy"><A HREF="javascript:MM_openBrWindow('../contact.html','cntct','width=490,height=440,scrollbars=0')">HP企画・提案・制作および各種マーケティングツールの企画・制作などに関しましては、こちらから。</A></FONT></TD>
+			</TR>
+			</TABLE>
+			<TABLE><TR><TD HEIGHT="13" NOWRAP></TD></TR></TABLE>
+		</TD>
+		</TR>
+		</TABLE>
+		<TABLE><TR><TD HEIGHT="40" NOWRAP></TD></TR></TABLE>
+	</TD></TR>
+	</TABLE>
+
+</TD>
+<TD ROWSPAN="2" WIDTH="30" BGCOLOR="#FFFFFF" ALIGN="center" VALIGN="top"><IMG SRC="../cmn/spcr.gif" WIDTH="30" HEIGHT="1"><BR>
+<TD ROWSPAN="2" WIDTH="3" BACKGROUND="../cmn/shdw02.gif"><IMG SRC="../cmn/spcr.gif" WIDTH="3" HEIGHT="1"></TD>
+</TR>
+<TR>
+<TD WIDTH="170" VALIGN="bottom" BACKGROUND="../cmn/left_bg.gif">
+	<TABLE WIDTH="170" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR><TD WIDTH="170" VALIGN="bottom"><A HREF="index.html"><IMG SRC="../cmn/ctgry_btn00.gif" WIDTH="170" HEIGHT="35" BORDER="0"></A><BR><IMG SRC="../cmn/spcr.gif" WIDTH="170" HEIGHT="4"><BR>
+<A HREF="research.html"><IMG SRC="img/ctgry_btn_rsrch.gif" WIDTH="170" HEIGHT="35" BORDER="0"></A><BR>
+<IMG SRC="../cmn/acd_j.gif" WIDTH="170" HEIGHT="34"></TD></TR>
+	</TABLE>
+</TD>
+</TR>
+
+</TABLE><IMG SRC="../cmn/gry_line.gif" WIDTH="800" HEIGHT="1"><BR><IMG SRC="../cmn/spcr.gif" WIDTH="1" HEIGHT="2"><BR>
+<TABLE WIDTH="806" HEIGHT="42" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD WIDTH="3" BACKGROUND="../cmn/shdw01.gif" VALIGN="bottom"><IMG SRC="../cmn/spcr.gif" WIDTH="3" HEIGHT="1"></TD>
+<TD WIDTH="488" BGCOLOR="#FFFFFF" VALIGN="bottom"><IMG SRC="../cmn/spcr.gif" WIDTH="488" HEIGHT="1"></TD>
+<TD WIDTH="312" ALIGN="right" VALIGN="bottom" BGCOLOR="#FFFFFF"><FONT CLASS="bdy"><A HREF="javascript:MM_openBrWindow('../contact.html','cntct','width=490,height=440,scrollbars=0')">Contact Us</A> | <A HREF="javascript:MM_openBrWindow('../map.html','function','width=490,height=350,scrollbars=0')">Access</A> 
+| <A HREF="../sitemap.html">Sitemap</A></FONT><IMG SRC="../cmn/spcr.gif" WIDTH="30" HEIGHT="1"><BR>
+<IMG SRC="../cmn/ftr_02.gif" WIDTH="312" HEIGHT="20"></TD>
+<TD WIDTH="3" BACKGROUND="../cmn/shdw02.gif"><IMG SRC="../cmn/spcr.gif" WIDTH="3" HEIGHT="1"></TD>
+</TR>
+</TABLE><IMG SRC="../cmn/ftr_01.gif" WIDTH="806" HEIGHT="2"><BR>
+</DIV>
+</BODY>
+</HTML>

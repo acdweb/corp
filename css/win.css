@@ -1,0 +1,16 @@
+body { background: #BBBBBB; background-image: url(../cmn/bg.gif); color:#333333; margin:0px 0px 0px 0px; }
+
+a:link { color:#336699; text-decoration:none; }
+a:visited { color:#336699; text-decoration:none; }
+a:active { color:#336699; text-decoration:none; }
+a:hover { text-decoration:underline; }
+
+.hd { font-size:12pt; font-weight:bold; line-height:15pt; letter-spacing:1px; color: #003366}
+.ld { font-size:12pt; font-weight:bold; line-height:15pt; letter-spacing:1px; color: #003366}
+.bdy { font-size:9pt; font-weight:normal; line-height:12pt; letter-spacing:normal; color: #333333}
+.bdyl { font-size:9pt; font-weight:normal; line-height:14pt; letter-spacing:normal; color: #333333}
+.bdys { font-size:9pt; font-weight:normal; line-height:11pt; letter-spacing:normal; color: #333333}
+.bdyb { font-size:9pt; font-weight:bold; line-height:11pt; letter-spacing:normal; color: #333366}
+.bdyw { font-size:9pt; font-weight:normal; line-height:11pt; letter-spacing:normal; color: #ffffff}
+.capw { font-size:8pt; font-weight:normal; line-height:10pt; letter-spacing:normal; color: #ffffff}
+.cap { font-size:8pt; font-weight:normal; line-height:10pt; letter-spacing:normal; color: #666666}
