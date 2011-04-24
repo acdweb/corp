@@ -20,8 +20,6 @@ if(flashplayer_ver <= 6){flashplayer_ver = 0;}
 return flashplayer_ver;
 } 
 
-//alert (FlashPlayerVer());
-
 if (FlashPlayerVer()>=6) {
 	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
 	document.write('  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
